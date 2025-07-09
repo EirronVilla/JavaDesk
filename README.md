@@ -7,3 +7,9 @@ Test project for Java. MVC, Hibernate and Java Swing.
 
 # Refresh Cache
 ./gradlew clean build --refresh-dependencies
+
+
+# Prerequisites:
+* Java JDK 21
+* IntelliJ Idea
+* MySQL
